@@ -1,2 +1,2 @@
 ## Basic SQL 
-based on (https://www.youtube.com/watch?v=HXV3zeQKqGY)[freeCodeCamp.org]
+based on [freeCodeCamp.org](https://www.youtube.com/watch?v=HXV3zeQKqGY)
